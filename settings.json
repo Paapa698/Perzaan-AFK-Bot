@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "VAMSMP",
+    "username": "AntiCheat",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "vamsmp.mcsh.io",
-    "port": 25565,
+    "ip": "sgp1.bytenut.cc:7160",
+    "port": 7160,
     "version": "1.21.1"
   },
   "position": {
